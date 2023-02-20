@@ -8,7 +8,7 @@
  *User: Muh. Asrul Mulis
  *Date: 20/February/2023
  *
- *Version(0.1)
+ *Version(0.2)
  */
  //class name
  public class WelcomeTwo {
