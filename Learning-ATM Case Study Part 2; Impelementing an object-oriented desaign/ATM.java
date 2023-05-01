@@ -9,7 +9,7 @@
  *User: Muh. Asrul Mulis
  *Date: 01/Mei/2023
  *
- *Version(7.1)
+ *Version(0.2)
  */
  
 public class ATM {
